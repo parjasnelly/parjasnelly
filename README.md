@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I have been a Computer Science student since 2020 and have worked as a developer for 1 year and 6 months on a scholarship at my university, where I used the following stack: Angular 2+, AdonisJs V5, and PostgreSQL. Currently, I am an intern working with the following technologies: C#, .NET Core, ASP.NET Core, VB6, and MySQL.</p>
+<p align="left">I have been a Computer Science student since 2020 and have worked as a developer for 1 year and 6 months on a scholarship at my university, where I used the following stack: Angular 2+, AdonisJs V5, and PostgreSQL. Currently, I am an intern working with the following technologies: C#, .NET Core, ASP.NET Core, VB6 and MySQL.</p>
 
 ###
 
