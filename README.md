@@ -14,7 +14,7 @@
 
 <h2 align="left"></h2>
 
-<p align="left">Sou Bacharel Ciência da Computação e tenho mais de 1 ano e 9 meses de experiencia em programação.</p>
+<p align="left">Sou Bacharel em Ciência da Computação e tenho mais de 1 ano e 9 meses de experiencia em programação.</p>
 
 ###
 
